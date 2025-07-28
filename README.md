@@ -77,10 +77,10 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 ## 📡 API Endpoints
 
 ### 🧠 AI Feature Routes
-```api
+
 | Endpoint                     | Method | Auth | Description                                   |
 |------------------------------|--------|------|-----------------------------------------------|
-| /api/ai/generate-article   | POST   | ✅    | Generate AI-written article from title/length |
+| `/api/ai/generate-article`   | POST   | ✅    | Generate AI-written article from title/length |
 | `/api/ai/generate-blog-title`| POST   | ✅    | Generate blog titles from keywords/category   |
 | `/api/ai/generate-image`     | POST   | ✅    | Generate image based on a prompt              |
 | `/api/ai/remove-image-background` | POST | ✅  | Upload image and remove background            |
@@ -95,7 +95,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 | `/api/user/get-published-creations` | GET | ✅ | Fetch published content only             |
 | `/api/user/toggle-like-creation` | POST | ✅ | Like/unlike specific AI content          |
 
-```
+
 
 ## 🧪 Getting Started
 
