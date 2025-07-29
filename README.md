@@ -42,7 +42,7 @@ Our app addresses:
 
 ## 🏗️ System Architecture
 
-![Architecture](https://your-cdn-link.com/images/architecture-diagram.png)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2767596b-c703-4667-8d09-c31e416680c0" />
 
 ---
 
